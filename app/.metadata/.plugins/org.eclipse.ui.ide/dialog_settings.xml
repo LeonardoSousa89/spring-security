@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\somen\OneDrive\Desktop\CENTRAL\t.i\backend\spring-security\app\produtos"/>
+		<item value="C:\Users\somen\OneDrive\Desktop\CENTRAL\t.i\backend\spring-security\app\usuario"/>
+		<item value="C:\Users\somen\OneDrive\Desktop\CENTRAL\t.i\backend\spring-security\app\oauth"/>
+		<item value="C:\Users\somen\OneDrive\Desktop\CENTRAL\t.i\backend\spring-security\app\zuul"/>
+		<item value="C:\Users\somen\OneDrive\Desktop\CENTRAL\t.i\backend\spring-security\app\eureka"/>
+	</list>
+</section>
