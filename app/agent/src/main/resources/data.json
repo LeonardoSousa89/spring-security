@@ -1,0 +1,44 @@
+[
+	{
+	    "name":"Fox Mulder",
+	    "phone":"+1 205 555 0118",
+	    "email":"muldeg@corp.com",
+	    "corp_office":1,
+	    "corp_state": 2,
+	    "corp_city":2,
+	    "status":0
+	},{
+	    "name":"Dana Scully",
+	    "phone":"+1 205 555 0129",
+	    "email":"scully@corp.com",
+	    "corp_office":1,
+	    "corp_state": 2,
+	    "corp_city":2,
+	    "status":0
+	},{
+	    "name":"Clarice Starling",
+	    "phone":"+1 205 555 0178",
+	    "email":"clarire@corp.com",
+	    "corp_office":2,
+	    "corp_state": 0,
+	    "corp_city":0,
+	    "status":0
+	},{
+	    "name":"Seeley Booth",
+	    "phone":"+1 205 555 0118",
+	    "email":"bones@corp.com",
+	    "corp_office":3,
+	    "corp_state": 0,
+	    "corp_city":0,
+	    "status":1
+	},{
+	    "name":"Will Graham",
+	    "phone":"+1 205 555 0199",
+	    "email":"reddragon@corp.com",
+	    "corp_office":1,
+	    "corp_state": 1,
+	    "corp_city":1,
+	    "status":1
+	}
+	
+]
