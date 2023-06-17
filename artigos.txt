@@ -5,3 +5,4 @@ https://projectlombok.org/features/
 https://refactoring.guru/pt-br/design-patterns/builder/java/example
 https://pt.stackoverflow.com/questions/190504/capturar-nullpointerexception-é-má-prática
 https://cursos.alura.com.br/forum/topico-java-util-nosuchelementexception-no-value-present-184922
+https://stackoverflow.com/questions/45018873/how-does-spring-boot-load-changes-in-code-without-restarting-the-server
